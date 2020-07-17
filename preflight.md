@@ -46,6 +46,8 @@ Matt's preflight checklist for streaming.
     - Twitch Stream Manager: https://dashboard.twitch.tv/u/mdlayher/stream-manager
       - Set stream title/category
       - Stream audio muted
+      - Set project:
+        - `!commands edit !project https://github.com/mdlayher/modemmanager`
     - Gophers Slack
     - Twitter
 - Left monitor
@@ -65,3 +67,4 @@ Matt's preflight checklist for streaming.
   - Gophers Slack
     - #networking
     - #performance
+    - #general
