@@ -43,6 +43,7 @@ Matt's preflight checklist for streaming.
       - Logged in on GitHub
       - Optional: GoDoc, other sites
 - Right monitor
+  - Spotify
   - Chrome with personal profile
     - Twitch Stream Manager: https://dashboard.twitch.tv/u/mdlayher/stream-manager
       - Set stream title/category
