@@ -33,6 +33,7 @@ Matt's preflight checklist for streaming.
   - Disable webcam autofocus:
     - `sudo v4l2-ctl -c focus_auto=0`
   - Disable GNOME notifications
+  - Close Thunderbird
   - Primary workspace:
     - VSCode with project, size 22 font
     - Terminal in project directory, Presentation profile
